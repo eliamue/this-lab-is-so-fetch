@@ -17,7 +17,7 @@ const DetailContainer = () => {
   return (
     <main data-testid="character-detail">
       <Link to="/">Home</Link>
-      {loading ? <h1>Loading Character</h1> : <Quote {...character} />}
+      {loading ? <img src="https://i.gifer.com/origin/dd/ddf7f7a64ed9ea48e8e8afa67d8f892a_w200.gif" alt="Hypnotoad loading spinner" /> : <Quote {...character} />}
     </main>
   );
 };

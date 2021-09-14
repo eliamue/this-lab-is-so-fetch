@@ -23,7 +23,7 @@ describe('Quote Container', () => {
       </MemoryRouter>
     );
 
-    screen.getByTest('Loading');
+    screen.getByAltText('Hypnotoad loading spinner');
     const ul = await screen.findByRole('list', { name: 'quotes' });
     expect(ul).not.toBeEmptyDOMElement();
     expect(component).toMatchSnapshot();
