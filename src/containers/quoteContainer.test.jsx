@@ -7,5 +7,7 @@ describe('Quote Container', () => {
     render(<quoteContainer />);
 
     screen.getByTest('Loading');
+    const ul = await screen.findByRole('list', { name: 'quotes' });
+    expect(ul).not.toBeEmptyDOMElement();
   });
 });
