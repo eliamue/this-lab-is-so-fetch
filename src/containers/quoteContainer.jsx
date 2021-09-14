@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { fetchQuotes } from '../services/quotesAPI';
 
-export default class quoteContainer extends Component {
+export default class QuoteContainer extends Component {
   state = {
     loading: true,
   };

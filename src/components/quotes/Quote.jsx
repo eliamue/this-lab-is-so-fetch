@@ -1,17 +1,17 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
-const Quote = ({ quote, name, image }) => (
+const Quote = ({ quote, character, image }) => (
   <figure>
-    <img src={image} alt={name} />
+    <img src={image} alt={character} />
     <figcaption>
-      {quote} - {name}
+      {quote} - {character}
     </figcaption>
   </figure>
 );
 
 Quote.propTypes = {
   quote: PropTypes.string.isRequired,
-  name: PropTypes.string.isRequired,
+  character: PropTypes.string.isRequired,
   image: PropTypes.string
 };

@@ -1,6 +1,6 @@
 import React from 'react';
 import { render, screen } from '@testing-library/react';
-import quoteContainer from '../containers/quoteContainer';
+import quoteContainer from './quoteContainer';
 
 describe('Quote Container', () => {
   it('displays a list of quotes on the page', async () => {

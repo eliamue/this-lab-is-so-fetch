@@ -15,8 +15,8 @@ const QuoteList = ({ quotes }) => (
 QuoteList.propTypes = {
   quotes: PropTypes.arrayOf(
     PropTypes.shape({
-      id: PropTypes.number.isRequired,
-      name: PropTypes.string.isRequired,
+      quote: PropTypes.string.isRequired,
+      character: PropTypes.string.isRequired,
       image: PropTypes.string.isRequired,
     })
   ),
