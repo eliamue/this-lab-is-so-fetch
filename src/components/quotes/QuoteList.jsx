@@ -1,11 +1,13 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import Quote from './Quote';
+import { Link } from 'react-router-dom';
 
 const QuoteList = ({ quotes }) => (
   <ul aria-label="quotes">
     {quotes.map((quote) => (
-      <li key={quote.id}>
+      <li key={quote.name}>
+        <Link to=`/${quote.character}`></Link>
         <Quote {...quote} />
       </li>
     ))}

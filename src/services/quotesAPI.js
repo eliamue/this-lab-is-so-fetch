@@ -4,3 +4,9 @@ export const fetchQuotes = async () => {
 
   return results;
 };
+
+export const fetchSingleQuote = async (character) => {
+  const res = await fetch(`https://futuramaapi.herokuapp.com/api/characters/${character}`);
+
+  return res.json();
+};

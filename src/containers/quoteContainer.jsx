@@ -4,6 +4,7 @@ import { fetchQuotes } from '../services/quotesAPI';
 export default class QuoteContainer extends Component {
   state = {
     loading: true,
+    quotes: []
   };
 
   async componentDidMount() {
@@ -19,7 +20,7 @@ export default class QuoteContainer extends Component {
       <div>
         <ul aria-label="quotes">
           {quotes.map((quote) => (
-            <li key={quote.id}>{quote.quote}</li>
+            <li key={quote.character + quote.quote}>{quote.quote}</li>
           ))}
         </ul>
       </div>
