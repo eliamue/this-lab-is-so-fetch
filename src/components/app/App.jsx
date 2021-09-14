@@ -1,6 +1,6 @@
 import React from 'react';
-import quoteContainer from '../../containers/quoteContainer';
+import QuoteFn from '../../containers/QuoteFn';
 
 export default function App() {
-  return <quoteContainer />;
+  return <QuoteFn />;
 }
