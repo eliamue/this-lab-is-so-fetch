@@ -15,7 +15,7 @@ const DetailContainer = () => {
   }, [character]);
 
   return (
-    <main>
+    <main data-testid="character-detail">
       <Link to="/">Home</Link>
       {loading ? <h1>Loading Character</h1> : <Quote {...character} />}
     </main>

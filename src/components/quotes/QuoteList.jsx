@@ -6,8 +6,8 @@ import { Link } from 'react-router-dom';
 const QuoteList = ({ quotes }) => (
   <ul aria-label="quotes">
     {quotes.map((quote) => (
-      <li key={quote.name}>
-        <Link to=`/${quote.character}`></Link>
+        <li key={quote.name}>
+          <Link to=`/${quote}`></Link>
         <Quote {...quote} />
       </li>
     ))}
