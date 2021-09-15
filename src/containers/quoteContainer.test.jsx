@@ -29,3 +29,5 @@ describe('Quote Container', () => {
     expect(component).toMatchSnapshot();
   });
 });
+
+//let's please make CI pass please
