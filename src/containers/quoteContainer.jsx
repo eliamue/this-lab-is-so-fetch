@@ -12,7 +12,7 @@ const QuoteContainer = () => {
       .finally(() => setLoading(false));
   }, []);
 
-  if (loading)
+  if(loading)
     return (
       <>
         <img
