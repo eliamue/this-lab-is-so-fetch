@@ -11,7 +11,7 @@ const server = setupServer(
     return res(ctx.json(listData));
   })
 );
-//dumb stuff
+//comment
 describe('Quote Container', () => {
   beforeAll(() => server.listen());
   afterAll(() => server.close());
@@ -29,6 +29,3 @@ describe('Quote Container', () => {
     expect(component).toMatchSnapshot();
   });
 });
-
-//let's please make CI pass please
-//aaaand again

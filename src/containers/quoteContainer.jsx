@@ -11,7 +11,7 @@ const QuoteContainer = () => {
       .then((quotes) => setQuotes(quotes))
       .finally(() => setLoading(false));
   }, []);
-
+  //sdtkygjwbsedklrrjfvgsdf
   if(loading)
     return (
       <>
