@@ -1,7 +1,7 @@
 import React from 'react';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import DetailContainer from '../../containers/DetailContainer';
-import QuoteContainer from '../../containers/QuoteContainer';
+import QuoteContainer from '../../containers/QuoteContainer.jsx';
 
 export default function App() {
   return (
