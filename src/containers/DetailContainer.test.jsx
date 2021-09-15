@@ -8,7 +8,7 @@ import detailData from '../fixtures/detail.json';
 
 //mock
 const server = setupServer(
-  rest.get('https://futuramaapi.herokuapp.com/api/characters/bender', (req, res, ctx) => {
+  rest.get('https://futuramaapi.herokuapp.com/api/characters/:character', (req, res, ctx) => {
     return res(ctx.json(detailData));
     //copied json of all quotes from api and put it into file called detail.json
   })
@@ -20,13 +20,13 @@ describe('Detail Container', () => {
 
   it('displays a list of quotes from a single character', async () => {
     const component = render(
-      <MemoryRouter initialEntries={['/bender']}>
+      <MemoryRouter initialEntries={['/Bender']}>
         <DetailContainer />
       </MemoryRouter>
     );
 
-    screen.getByTest('Loading');
-    await screen.findByText('Bender', { exact: false });
+    screen.getByAltText('Hypnotoad loading spinner');
+    await screen.findByText('killbots', { exact: false });
     expect(component).toMatchSnapshot();
   });
 });

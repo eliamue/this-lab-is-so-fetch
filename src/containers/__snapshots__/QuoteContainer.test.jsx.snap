@@ -1,0 +1,856 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Quote Container displays a list of quotes on the page 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <h1>
+        Futurama Characters
+      </h1>
+      <ul
+        aria-label="quotes"
+      >
+        <li>
+          <a
+            href="/Bender"
+          >
+            Bender
+          </a>
+          <figure>
+            <img
+              alt="Bender"
+              class="char"
+              src="https://res.cloudinary.com/dzxqhkyqd/image/fetch/c_scale,w_500/https://res.cloudinary.com/dzxqhkyqd/image/upload/v1552429540/bender.png"
+            />
+            <figcaption>
+              "
+              I'm a fraud. A poor, lazy, sexy fraud.
+              "
+            </figcaption>
+          </figure>
+        </li>
+        <li>
+          <a
+            href="/Bender"
+          >
+            Bender
+          </a>
+          <figure>
+            <img
+              alt="Bender"
+              class="char"
+              src="https://res.cloudinary.com/dzxqhkyqd/image/fetch/c_scale,w_500/https://res.cloudinary.com/dzxqhkyqd/image/upload/v1552429540/bender.png"
+            />
+            <figcaption>
+              "
+              Bite my shiny metal ass.
+              "
+            </figcaption>
+          </figure>
+        </li>
+        <li>
+          <a
+            href="/Zapp Brannigan"
+          >
+            Zapp Brannigan
+          </a>
+          <figure>
+            <img
+              alt="Zapp Brannigan"
+              class="char"
+              src="https://res.cloudinary.com/dzxqhkyqd/image/upload/v1554904049/Zapp_Brannigan.png"
+            />
+            <figcaption>
+              "
+              If you so much as glance at another woman I'll be all over Leela like a fly on
+a pile of very sexy manure.
+              "
+            </figcaption>
+          </figure>
+        </li>
+        <li>
+          <a
+            href="/URL"
+          >
+            URL
+          </a>
+          <figure>
+            <img
+              alt="URL"
+              class="char"
+              src="https://res.cloudinary.com/dzxqhkyqd/image/upload/v1554904048/Url.jpg"
+            />
+            <figcaption>
+              "
+              You call that an antenna?
+              "
+            </figcaption>
+          </figure>
+        </li>
+        <li>
+          <a
+            href="/Bender"
+          >
+            Bender
+          </a>
+          <figure>
+            <img
+              alt="Bender"
+              class="char"
+              src="https://res.cloudinary.com/dzxqhkyqd/image/fetch/c_scale,w_500/https://res.cloudinary.com/dzxqhkyqd/image/upload/v1552429540/bender.png"
+            />
+            <figcaption>
+              "
+              A grim day for robot-kind. But we can always build more killbots.
+              "
+            </figcaption>
+          </figure>
+        </li>
+        <li>
+          <a
+            href="/Fry"
+          >
+            Fry
+          </a>
+          <figure>
+            <img
+              alt="Fry"
+              class="char"
+              src="https://res.cloudinary.com/dzxqhkyqd/image/upload/v1554904133/fry.png"
+            />
+            <figcaption>
+              "
+              Not everyone turns out like their parents. Look at me: my parents were honest,
+hard-working people.
+              "
+            </figcaption>
+          </figure>
+        </li>
+        <li>
+          <a
+            href="/Fry"
+          >
+            Fry
+          </a>
+          <figure>
+            <img
+              alt="Fry"
+              class="char"
+              src="https://res.cloudinary.com/dzxqhkyqd/image/upload/v1554904133/fry.png"
+            />
+            <figcaption>
+              "
+              Wow, there's a million aliens! I've never seen something so mind-blowing! Ooh,
+a reception table with muffins!
+              "
+            </figcaption>
+          </figure>
+        </li>
+        <li>
+          <a
+            href="/Morbo"
+          >
+            Morbo
+          </a>
+          <figure>
+            <img
+              alt="Morbo"
+              class="char"
+              src="https://res.cloudinary.com/dzxqhkyqd/image/upload/v1554904048/Morbo.jpg"
+            />
+            <figcaption>
+              "
+              Earthlings do not yet know the meaning of suffering!
+              "
+            </figcaption>
+          </figure>
+        </li>
+        <li>
+          <a
+            href="/Zapp Brannigan"
+          >
+            Zapp Brannigan
+          </a>
+          <figure>
+            <img
+              alt="Zapp Brannigan"
+              class="char"
+              src="https://res.cloudinary.com/dzxqhkyqd/image/upload/v1554904049/Zapp_Brannigan.png"
+            />
+            <figcaption>
+              "
+              If we can hit that bull's-eye the rest of the dominoes will fall like a house
+of cards. Checkmate.
+              "
+            </figcaption>
+          </figure>
+        </li>
+        <li>
+          <a
+            href="/Leela"
+          >
+            Leela
+          </a>
+          <figure>
+            <img
+              alt="Leela"
+              class="char"
+              src="https://res.cloudinary.com/dzxqhkyqd/image/upload/v1554904145/leela.png"
+            />
+            <figcaption>
+              "
+              Just make a simple cake. And this time, if someone's going to jump out of it
+make sure to put them in *after* you cook it.
+              "
+            </figcaption>
+          </figure>
+        </li>
+        <li>
+          <a
+            href="/Professor Farnsworth"
+          >
+            Professor Farnsworth
+          </a>
+          <figure>
+            <img
+              alt="Professor Farnsworth"
+              class="char"
+              src="https://res.cloudinary.com/dzxqhkyqd/image/upload/v1554904014/farnsworth.png"
+            />
+            <figcaption>
+              "
+              You may feel a slight stinging sensation ...all of you.
+              "
+            </figcaption>
+          </figure>
+        </li>
+        <li>
+          <a
+            href="/Zapp Brannigan"
+          >
+            Zapp Brannigan
+          </a>
+          <figure>
+            <img
+              alt="Zapp Brannigan"
+              class="char"
+              src="https://res.cloudinary.com/dzxqhkyqd/image/upload/v1554904049/Zapp_Brannigan.png"
+            />
+            <figcaption>
+              "
+              One day a man has everything, the next day he blows up a $400 billion space
+station, and the next day he has nothing. It makes you think.
+              "
+            </figcaption>
+          </figure>
+        </li>
+        <li>
+          <a
+            href="/Bender"
+          >
+            Bender
+          </a>
+          <figure>
+            <img
+              alt="Bender"
+              class="char"
+              src="https://res.cloudinary.com/dzxqhkyqd/image/fetch/c_scale,w_500/https://res.cloudinary.com/dzxqhkyqd/image/upload/v1552429540/bender.png"
+            />
+            <figcaption>
+              "
+              Comedy's a dead art form. Now tragedy, that's funny.
+              "
+            </figcaption>
+          </figure>
+        </li>
+        <li>
+          <a
+            href="/Dr Zoidberg"
+          >
+            Dr Zoidberg
+          </a>
+          <figure>
+            <img
+              alt="Dr Zoidberg"
+              class="char"
+              src="https://res.cloudinary.com/dzxqhkyqd/image/upload/v1554904014/Dr_John_Zoidberg.png"
+            />
+            <figcaption>
+              "
+              Finally, I look as pretty as I feel!
+              "
+            </figcaption>
+          </figure>
+        </li>
+        <li>
+          <a
+            href="/Bender"
+          >
+            Bender
+          </a>
+          <figure>
+            <img
+              alt="Bender"
+              class="char"
+              src="https://res.cloudinary.com/dzxqhkyqd/image/fetch/c_scale,w_500/https://res.cloudinary.com/dzxqhkyqd/image/upload/v1552429540/bender.png"
+            />
+            <figcaption>
+              "
+              He's a loser; he's the lobster equivalent of Fry.
+              "
+            </figcaption>
+          </figure>
+        </li>
+        <li>
+          <a
+            href="/Zapp Brannigan"
+          >
+            Zapp Brannigan
+          </a>
+          <figure>
+            <img
+              alt="Zapp Brannigan"
+              class="char"
+              src="https://res.cloudinary.com/dzxqhkyqd/image/upload/v1554904049/Zapp_Brannigan.png"
+            />
+            <figcaption>
+              "
+              You remind me of a young me. Not much younger mind you; perhaps even a couple
+of years older.
+              "
+            </figcaption>
+          </figure>
+        </li>
+        <li>
+          <a
+            href="/Bender"
+          >
+            Bender
+          </a>
+          <figure>
+            <img
+              alt="Bender"
+              class="char"
+              src="https://res.cloudinary.com/dzxqhkyqd/image/fetch/c_scale,w_500/https://res.cloudinary.com/dzxqhkyqd/image/upload/v1552429540/bender.png"
+            />
+            <figcaption>
+              "
+              I hate the people that love me, and they hate me.
+              "
+            </figcaption>
+          </figure>
+        </li>
+        <li>
+          <a
+            href="/Leela"
+          >
+            Leela
+          </a>
+          <figure>
+            <img
+              alt="Leela"
+              class="char"
+              src="https://res.cloudinary.com/dzxqhkyqd/image/upload/v1554904145/leela.png"
+            />
+            <figcaption>
+              "
+              ...at least here you'll be treated with dignity. Now strip naked and get on
+the probulator.
+              "
+            </figcaption>
+          </figure>
+        </li>
+        <li>
+          <a
+            href="/Bender"
+          >
+            Bender
+          </a>
+          <figure>
+            <img
+              alt="Bender"
+              class="char"
+              src="https://res.cloudinary.com/dzxqhkyqd/image/fetch/c_scale,w_500/https://res.cloudinary.com/dzxqhkyqd/image/upload/v1552429540/bender.png"
+            />
+            <figcaption>
+              "
+              I'm gonna drink 'til I reboot.
+              "
+            </figcaption>
+          </figure>
+        </li>
+        <li>
+          <a
+            href="/Zapp Brannigan"
+          >
+            Zapp Brannigan
+          </a>
+          <figure>
+            <img
+              alt="Zapp Brannigan"
+              class="char"
+              src="https://res.cloudinary.com/dzxqhkyqd/image/upload/v1554904049/Zapp_Brannigan.png"
+            />
+            <figcaption>
+              "
+              We'll simply plot a new course for that empty region over there; near that
+black-ish, hole-ish thing.
+              "
+            </figcaption>
+          </figure>
+        </li>
+      </ul>
+    </div>
+  </body>,
+  "container": <div>
+    <h1>
+      Futurama Characters
+    </h1>
+    <ul
+      aria-label="quotes"
+    >
+      <li>
+        <a
+          href="/Bender"
+        >
+          Bender
+        </a>
+        <figure>
+          <img
+            alt="Bender"
+            class="char"
+            src="https://res.cloudinary.com/dzxqhkyqd/image/fetch/c_scale,w_500/https://res.cloudinary.com/dzxqhkyqd/image/upload/v1552429540/bender.png"
+          />
+          <figcaption>
+            "
+            I'm a fraud. A poor, lazy, sexy fraud.
+            "
+          </figcaption>
+        </figure>
+      </li>
+      <li>
+        <a
+          href="/Bender"
+        >
+          Bender
+        </a>
+        <figure>
+          <img
+            alt="Bender"
+            class="char"
+            src="https://res.cloudinary.com/dzxqhkyqd/image/fetch/c_scale,w_500/https://res.cloudinary.com/dzxqhkyqd/image/upload/v1552429540/bender.png"
+          />
+          <figcaption>
+            "
+            Bite my shiny metal ass.
+            "
+          </figcaption>
+        </figure>
+      </li>
+      <li>
+        <a
+          href="/Zapp Brannigan"
+        >
+          Zapp Brannigan
+        </a>
+        <figure>
+          <img
+            alt="Zapp Brannigan"
+            class="char"
+            src="https://res.cloudinary.com/dzxqhkyqd/image/upload/v1554904049/Zapp_Brannigan.png"
+          />
+          <figcaption>
+            "
+            If you so much as glance at another woman I'll be all over Leela like a fly on
+a pile of very sexy manure.
+            "
+          </figcaption>
+        </figure>
+      </li>
+      <li>
+        <a
+          href="/URL"
+        >
+          URL
+        </a>
+        <figure>
+          <img
+            alt="URL"
+            class="char"
+            src="https://res.cloudinary.com/dzxqhkyqd/image/upload/v1554904048/Url.jpg"
+          />
+          <figcaption>
+            "
+            You call that an antenna?
+            "
+          </figcaption>
+        </figure>
+      </li>
+      <li>
+        <a
+          href="/Bender"
+        >
+          Bender
+        </a>
+        <figure>
+          <img
+            alt="Bender"
+            class="char"
+            src="https://res.cloudinary.com/dzxqhkyqd/image/fetch/c_scale,w_500/https://res.cloudinary.com/dzxqhkyqd/image/upload/v1552429540/bender.png"
+          />
+          <figcaption>
+            "
+            A grim day for robot-kind. But we can always build more killbots.
+            "
+          </figcaption>
+        </figure>
+      </li>
+      <li>
+        <a
+          href="/Fry"
+        >
+          Fry
+        </a>
+        <figure>
+          <img
+            alt="Fry"
+            class="char"
+            src="https://res.cloudinary.com/dzxqhkyqd/image/upload/v1554904133/fry.png"
+          />
+          <figcaption>
+            "
+            Not everyone turns out like their parents. Look at me: my parents were honest,
+hard-working people.
+            "
+          </figcaption>
+        </figure>
+      </li>
+      <li>
+        <a
+          href="/Fry"
+        >
+          Fry
+        </a>
+        <figure>
+          <img
+            alt="Fry"
+            class="char"
+            src="https://res.cloudinary.com/dzxqhkyqd/image/upload/v1554904133/fry.png"
+          />
+          <figcaption>
+            "
+            Wow, there's a million aliens! I've never seen something so mind-blowing! Ooh,
+a reception table with muffins!
+            "
+          </figcaption>
+        </figure>
+      </li>
+      <li>
+        <a
+          href="/Morbo"
+        >
+          Morbo
+        </a>
+        <figure>
+          <img
+            alt="Morbo"
+            class="char"
+            src="https://res.cloudinary.com/dzxqhkyqd/image/upload/v1554904048/Morbo.jpg"
+          />
+          <figcaption>
+            "
+            Earthlings do not yet know the meaning of suffering!
+            "
+          </figcaption>
+        </figure>
+      </li>
+      <li>
+        <a
+          href="/Zapp Brannigan"
+        >
+          Zapp Brannigan
+        </a>
+        <figure>
+          <img
+            alt="Zapp Brannigan"
+            class="char"
+            src="https://res.cloudinary.com/dzxqhkyqd/image/upload/v1554904049/Zapp_Brannigan.png"
+          />
+          <figcaption>
+            "
+            If we can hit that bull's-eye the rest of the dominoes will fall like a house
+of cards. Checkmate.
+            "
+          </figcaption>
+        </figure>
+      </li>
+      <li>
+        <a
+          href="/Leela"
+        >
+          Leela
+        </a>
+        <figure>
+          <img
+            alt="Leela"
+            class="char"
+            src="https://res.cloudinary.com/dzxqhkyqd/image/upload/v1554904145/leela.png"
+          />
+          <figcaption>
+            "
+            Just make a simple cake. And this time, if someone's going to jump out of it
+make sure to put them in *after* you cook it.
+            "
+          </figcaption>
+        </figure>
+      </li>
+      <li>
+        <a
+          href="/Professor Farnsworth"
+        >
+          Professor Farnsworth
+        </a>
+        <figure>
+          <img
+            alt="Professor Farnsworth"
+            class="char"
+            src="https://res.cloudinary.com/dzxqhkyqd/image/upload/v1554904014/farnsworth.png"
+          />
+          <figcaption>
+            "
+            You may feel a slight stinging sensation ...all of you.
+            "
+          </figcaption>
+        </figure>
+      </li>
+      <li>
+        <a
+          href="/Zapp Brannigan"
+        >
+          Zapp Brannigan
+        </a>
+        <figure>
+          <img
+            alt="Zapp Brannigan"
+            class="char"
+            src="https://res.cloudinary.com/dzxqhkyqd/image/upload/v1554904049/Zapp_Brannigan.png"
+          />
+          <figcaption>
+            "
+            One day a man has everything, the next day he blows up a $400 billion space
+station, and the next day he has nothing. It makes you think.
+            "
+          </figcaption>
+        </figure>
+      </li>
+      <li>
+        <a
+          href="/Bender"
+        >
+          Bender
+        </a>
+        <figure>
+          <img
+            alt="Bender"
+            class="char"
+            src="https://res.cloudinary.com/dzxqhkyqd/image/fetch/c_scale,w_500/https://res.cloudinary.com/dzxqhkyqd/image/upload/v1552429540/bender.png"
+          />
+          <figcaption>
+            "
+            Comedy's a dead art form. Now tragedy, that's funny.
+            "
+          </figcaption>
+        </figure>
+      </li>
+      <li>
+        <a
+          href="/Dr Zoidberg"
+        >
+          Dr Zoidberg
+        </a>
+        <figure>
+          <img
+            alt="Dr Zoidberg"
+            class="char"
+            src="https://res.cloudinary.com/dzxqhkyqd/image/upload/v1554904014/Dr_John_Zoidberg.png"
+          />
+          <figcaption>
+            "
+            Finally, I look as pretty as I feel!
+            "
+          </figcaption>
+        </figure>
+      </li>
+      <li>
+        <a
+          href="/Bender"
+        >
+          Bender
+        </a>
+        <figure>
+          <img
+            alt="Bender"
+            class="char"
+            src="https://res.cloudinary.com/dzxqhkyqd/image/fetch/c_scale,w_500/https://res.cloudinary.com/dzxqhkyqd/image/upload/v1552429540/bender.png"
+          />
+          <figcaption>
+            "
+            He's a loser; he's the lobster equivalent of Fry.
+            "
+          </figcaption>
+        </figure>
+      </li>
+      <li>
+        <a
+          href="/Zapp Brannigan"
+        >
+          Zapp Brannigan
+        </a>
+        <figure>
+          <img
+            alt="Zapp Brannigan"
+            class="char"
+            src="https://res.cloudinary.com/dzxqhkyqd/image/upload/v1554904049/Zapp_Brannigan.png"
+          />
+          <figcaption>
+            "
+            You remind me of a young me. Not much younger mind you; perhaps even a couple
+of years older.
+            "
+          </figcaption>
+        </figure>
+      </li>
+      <li>
+        <a
+          href="/Bender"
+        >
+          Bender
+        </a>
+        <figure>
+          <img
+            alt="Bender"
+            class="char"
+            src="https://res.cloudinary.com/dzxqhkyqd/image/fetch/c_scale,w_500/https://res.cloudinary.com/dzxqhkyqd/image/upload/v1552429540/bender.png"
+          />
+          <figcaption>
+            "
+            I hate the people that love me, and they hate me.
+            "
+          </figcaption>
+        </figure>
+      </li>
+      <li>
+        <a
+          href="/Leela"
+        >
+          Leela
+        </a>
+        <figure>
+          <img
+            alt="Leela"
+            class="char"
+            src="https://res.cloudinary.com/dzxqhkyqd/image/upload/v1554904145/leela.png"
+          />
+          <figcaption>
+            "
+            ...at least here you'll be treated with dignity. Now strip naked and get on
+the probulator.
+            "
+          </figcaption>
+        </figure>
+      </li>
+      <li>
+        <a
+          href="/Bender"
+        >
+          Bender
+        </a>
+        <figure>
+          <img
+            alt="Bender"
+            class="char"
+            src="https://res.cloudinary.com/dzxqhkyqd/image/fetch/c_scale,w_500/https://res.cloudinary.com/dzxqhkyqd/image/upload/v1552429540/bender.png"
+          />
+          <figcaption>
+            "
+            I'm gonna drink 'til I reboot.
+            "
+          </figcaption>
+        </figure>
+      </li>
+      <li>
+        <a
+          href="/Zapp Brannigan"
+        >
+          Zapp Brannigan
+        </a>
+        <figure>
+          <img
+            alt="Zapp Brannigan"
+            class="char"
+            src="https://res.cloudinary.com/dzxqhkyqd/image/upload/v1554904049/Zapp_Brannigan.png"
+          />
+          <figcaption>
+            "
+            We'll simply plot a new course for that empty region over there; near that
+black-ish, hole-ish thing.
+            "
+          </figcaption>
+        </figure>
+      </li>
+    </ul>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;

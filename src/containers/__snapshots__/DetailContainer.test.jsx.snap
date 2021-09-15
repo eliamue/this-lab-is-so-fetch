@@ -1,0 +1,1134 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Detail Container displays a list of quotes from a single character 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <main
+        data-testid="quote-detail"
+      >
+        <a
+          href="/"
+        >
+          Home
+        </a>
+        <h1
+          class="name"
+        />
+        <ul
+          aria-label="quotes"
+        >
+          <li>
+            <p
+              class="quotes"
+            >
+              "
+              I'm a fraud. A poor, lazy, sexy fraud.
+              "
+            </p>
+          </li>
+          <li>
+            <p
+              class="quotes"
+            >
+              "
+              Bite my shiny metal ass.
+              "
+            </p>
+          </li>
+          <li>
+            <p
+              class="quotes"
+            >
+              "
+              A grim day for robot-kind. But we can always build more killbots.
+              "
+            </p>
+          </li>
+          <li>
+            <p
+              class="quotes"
+            >
+              "
+              Comedy's a dead art form. Now tragedy, that's funny.
+              "
+            </p>
+          </li>
+          <li>
+            <p
+              class="quotes"
+            >
+              "
+              He's a loser; he's the lobster equivalent of Fry.
+              "
+            </p>
+          </li>
+          <li>
+            <p
+              class="quotes"
+            >
+              "
+              I hate the people that love me, and they hate me.
+              "
+            </p>
+          </li>
+          <li>
+            <p
+              class="quotes"
+            >
+              "
+              I'm gonna drink 'til I reboot.
+              "
+            </p>
+          </li>
+          <li>
+            <p
+              class="quotes"
+            >
+              "
+              Ah, nothing like a warm fire and a SuperSoaker of fine cognac.
+              "
+            </p>
+          </li>
+          <li>
+            <p
+              class="quotes"
+            >
+              "
+              That'll take forever. What she ought to do is find a nice guy with two eyes
+and poke one out.
+              "
+            </p>
+          </li>
+          <li>
+            <p
+              class="quotes"
+            >
+              "
+              Everybody's a jerk: you, me, this jerk.
+              "
+            </p>
+          </li>
+          <li>
+            <p
+              class="quotes"
+            >
+              "
+              This'll teach those filthy bastards who's lovable!
+              "
+            </p>
+          </li>
+          <li>
+            <p
+              class="quotes"
+            >
+              "
+              Bender: 1, Toilet: 0.
+              "
+            </p>
+          </li>
+          <li>
+            <p
+              class="quotes"
+            >
+              "
+              Bodies are for hookers and fat people.
+              "
+            </p>
+          </li>
+          <li>
+            <p
+              class="quotes"
+            >
+              "
+              X-Mas eve, another pointless day where I accomplished nothing. Ah...
+              "
+            </p>
+          </li>
+          <li>
+            <p
+              class="quotes"
+            >
+              "
+              What kind of party is this? There's no booze and only one hooker.
+              "
+            </p>
+          </li>
+          <li>
+            <p
+              class="quotes"
+            >
+              "
+              Of all the friends I've had, you're the first.
+              "
+            </p>
+          </li>
+          <li>
+            <p
+              class="quotes"
+            >
+              "
+              I assure you, I barely know the meaning of the word labor.
+              "
+            </p>
+          </li>
+          <li>
+            <p
+              class="quotes"
+            >
+              "
+              Compare your lives to mine and kill yourselves.
+              "
+            </p>
+          </li>
+          <li>
+            <p
+              class="quotes"
+            >
+              "
+              And I'd do it again, and perhaps a third time. But that would be it.
+              "
+            </p>
+          </li>
+          <li>
+            <p
+              class="quotes"
+            >
+              "
+              Why can't she just drink herself happy like a normal person?
+              "
+            </p>
+          </li>
+          <li>
+            <p
+              class="quotes"
+            >
+              "
+              He's no different from the rest of you organisms, shooting DNA at each other
+to make babies. I find it offensive.
+              "
+            </p>
+          </li>
+          <li>
+            <p
+              class="quotes"
+            >
+              "
+              I'm finally richer than those snooty ATM machines.
+              "
+            </p>
+          </li>
+          <li>
+            <p
+              class="quotes"
+            >
+              "
+              The auxiliary power's out and they spilled my cocktail.
+              "
+            </p>
+          </li>
+          <li>
+            <p
+              class="quotes"
+            >
+              "
+              They're not very heavy, but you don't hear me not complaining.
+              "
+            </p>
+          </li>
+          <li>
+            <p
+              class="quotes"
+            >
+              "
+              Don't talk like that; tragic romances always have a happy ending.
+              "
+            </p>
+          </li>
+          <li>
+            <p
+              class="quotes"
+            >
+              "
+              Yes, I got the most! I win X-Mas!
+              "
+            </p>
+          </li>
+          <li>
+            <p
+              class="quotes"
+            >
+              "
+              Computer dating: it's just like pimping except you rarely have to use the
+term 'upside your head'.
+              "
+            </p>
+          </li>
+          <li>
+            <p
+              class="quotes"
+            >
+              "
+              You, sir, have defaced a natural treasure! I insist you restore my buttocks to
+their former glory.
+              "
+            </p>
+          </li>
+          <li>
+            <p
+              class="quotes"
+            >
+              "
+              Now, my usual fee is $500. But seeing as how its you, I'll need it all in
+advance.
+              "
+            </p>
+          </li>
+          <li>
+            <p
+              class="quotes"
+            >
+              "
+              You're a thousand years old?! Your bio says you're 27!
+              "
+            </p>
+          </li>
+          <li>
+            <p
+              class="quotes"
+            >
+              "
+              It's always so sad when a friend goes crazy and you have a have a big clambake
+and cook him! Yee-ha!
+              "
+            </p>
+          </li>
+          <li>
+            <p
+              class="quotes"
+            >
+              "
+              Life is hilariously cruel.
+              "
+            </p>
+          </li>
+          <li>
+            <p
+              class="quotes"
+            >
+              "
+              Robot porno theatre! I was in that... general... vicinity.
+              "
+            </p>
+          </li>
+          <li>
+            <p
+              class="quotes"
+            >
+              "
+              Yes! I'm going to be rich! You are too, but it's hard to get excited about
+that.
+              "
+            </p>
+          </li>
+          <li>
+            <p
+              class="quotes"
+            >
+              "
+              It's one thing to win a fixed fight; there's dignity in that. But to lose!
+              "
+            </p>
+          </li>
+          <li>
+            <p
+              class="quotes"
+            >
+              "
+              This is the best nanosecond of my life! No this one is! No this one!
+              "
+            </p>
+          </li>
+          <li>
+            <p
+              class="quotes"
+            >
+              "
+              I can't afford to keep running people over. I'm not famous enough to get away
+with it.
+              "
+            </p>
+          </li>
+          <li>
+            <p
+              class="quotes"
+            >
+              "
+              If they put me on a stamp... tell them to use the young Bender.
+              "
+            </p>
+          </li>
+          <li>
+            <p
+              class="quotes"
+            >
+              "
+              Now we're slaving!
+              "
+            </p>
+          </li>
+          <li>
+            <p
+              class="quotes"
+            >
+              "
+              Robots don't have any emotions and sometimes that makes me very sad.
+              "
+            </p>
+          </li>
+          <li>
+            <p
+              class="quotes"
+            >
+              "
+              There we were in the park when suddenly some old lady says I stole her purse.
+I chucked the professor at her but she kept coming. So I had to hit her with
+this purse I found.
+              "
+            </p>
+          </li>
+          <li>
+            <p
+              class="quotes"
+            >
+              "
+              Hmm, words I never say... Oh, I know: "Thanks"!
+              "
+            </p>
+          </li>
+          <li>
+            <p
+              class="quotes"
+            >
+              "
+              Oh crap! It's a miracle!
+              "
+            </p>
+          </li>
+          <li>
+            <p
+              class="quotes"
+            >
+              "
+              I personalized each of your meals. For example, Amy: you're cute, so I baked
+you a pony.
+              "
+            </p>
+          </li>
+          <li>
+            <p
+              class="quotes"
+            >
+              "
+              That probulator really knows how to please a man.
+              "
+            </p>
+          </li>
+          <li>
+            <p
+              class="quotes"
+            >
+              "
+              You know, they say you can judge a man by the company he keeps; so here's
+the professor's oldest friend: a grotesque, stinking lobster!
+              "
+            </p>
+          </li>
+          <li>
+            <p
+              class="quotes"
+            >
+              "
+              Blackmail's such an ugly word. I prefer extortion; the "x" makes it sound
+cool.
+              "
+            </p>
+          </li>
+          <li>
+            <p
+              class="quotes"
+            >
+              "
+              Now you know why I used the qualifier 'practically'.
+              "
+            </p>
+          </li>
+          <li>
+            <p
+              class="quotes"
+            >
+              "
+              Arrr! The laws of science be a harsh mistress.
+              "
+            </p>
+          </li>
+          <li>
+            <p
+              class="quotes"
+            >
+              "
+              She is well-traveled, and I don't mean she travels a lot.
+              "
+            </p>
+          </li>
+          <li>
+            <p
+              class="quotes"
+            >
+              "
+              If you want children beaten, you've got to do it yourself.
+              "
+            </p>
+          </li>
+          <li>
+            <p
+              class="quotes"
+            >
+              "
+              Great is OK, but amazing would be GREAT!
+              "
+            </p>
+          </li>
+          <li>
+            <p
+              class="quotes"
+            >
+              "
+              The cruelty of the old pharoah is a thing of the past! Let a whole new wave of
+cruelty wash over this lazy land!
+              "
+            </p>
+          </li>
+          <li>
+            <p
+              class="quotes"
+            >
+              "
+              Oh my god. I'm so excited I wish I could wet my pants!
+              "
+            </p>
+          </li>
+          <li>
+            <p
+              class="quotes"
+            >
+              "
+              ...Martini-drinking contest with the auto-pilot. I would have won, except we
+ran out of olives.
+              "
+            </p>
+          </li>
+          <li>
+            <p
+              class="quotes"
+            >
+              "
+              Problem solved. You two fight to the death and I'll cook the loser.
+              "
+            </p>
+          </li>
+        </ul>
+      </main>
+    </div>
+  </body>,
+  "container": <div>
+    <main
+      data-testid="quote-detail"
+    >
+      <a
+        href="/"
+      >
+        Home
+      </a>
+      <h1
+        class="name"
+      />
+      <ul
+        aria-label="quotes"
+      >
+        <li>
+          <p
+            class="quotes"
+          >
+            "
+            I'm a fraud. A poor, lazy, sexy fraud.
+            "
+          </p>
+        </li>
+        <li>
+          <p
+            class="quotes"
+          >
+            "
+            Bite my shiny metal ass.
+            "
+          </p>
+        </li>
+        <li>
+          <p
+            class="quotes"
+          >
+            "
+            A grim day for robot-kind. But we can always build more killbots.
+            "
+          </p>
+        </li>
+        <li>
+          <p
+            class="quotes"
+          >
+            "
+            Comedy's a dead art form. Now tragedy, that's funny.
+            "
+          </p>
+        </li>
+        <li>
+          <p
+            class="quotes"
+          >
+            "
+            He's a loser; he's the lobster equivalent of Fry.
+            "
+          </p>
+        </li>
+        <li>
+          <p
+            class="quotes"
+          >
+            "
+            I hate the people that love me, and they hate me.
+            "
+          </p>
+        </li>
+        <li>
+          <p
+            class="quotes"
+          >
+            "
+            I'm gonna drink 'til I reboot.
+            "
+          </p>
+        </li>
+        <li>
+          <p
+            class="quotes"
+          >
+            "
+            Ah, nothing like a warm fire and a SuperSoaker of fine cognac.
+            "
+          </p>
+        </li>
+        <li>
+          <p
+            class="quotes"
+          >
+            "
+            That'll take forever. What she ought to do is find a nice guy with two eyes
+and poke one out.
+            "
+          </p>
+        </li>
+        <li>
+          <p
+            class="quotes"
+          >
+            "
+            Everybody's a jerk: you, me, this jerk.
+            "
+          </p>
+        </li>
+        <li>
+          <p
+            class="quotes"
+          >
+            "
+            This'll teach those filthy bastards who's lovable!
+            "
+          </p>
+        </li>
+        <li>
+          <p
+            class="quotes"
+          >
+            "
+            Bender: 1, Toilet: 0.
+            "
+          </p>
+        </li>
+        <li>
+          <p
+            class="quotes"
+          >
+            "
+            Bodies are for hookers and fat people.
+            "
+          </p>
+        </li>
+        <li>
+          <p
+            class="quotes"
+          >
+            "
+            X-Mas eve, another pointless day where I accomplished nothing. Ah...
+            "
+          </p>
+        </li>
+        <li>
+          <p
+            class="quotes"
+          >
+            "
+            What kind of party is this? There's no booze and only one hooker.
+            "
+          </p>
+        </li>
+        <li>
+          <p
+            class="quotes"
+          >
+            "
+            Of all the friends I've had, you're the first.
+            "
+          </p>
+        </li>
+        <li>
+          <p
+            class="quotes"
+          >
+            "
+            I assure you, I barely know the meaning of the word labor.
+            "
+          </p>
+        </li>
+        <li>
+          <p
+            class="quotes"
+          >
+            "
+            Compare your lives to mine and kill yourselves.
+            "
+          </p>
+        </li>
+        <li>
+          <p
+            class="quotes"
+          >
+            "
+            And I'd do it again, and perhaps a third time. But that would be it.
+            "
+          </p>
+        </li>
+        <li>
+          <p
+            class="quotes"
+          >
+            "
+            Why can't she just drink herself happy like a normal person?
+            "
+          </p>
+        </li>
+        <li>
+          <p
+            class="quotes"
+          >
+            "
+            He's no different from the rest of you organisms, shooting DNA at each other
+to make babies. I find it offensive.
+            "
+          </p>
+        </li>
+        <li>
+          <p
+            class="quotes"
+          >
+            "
+            I'm finally richer than those snooty ATM machines.
+            "
+          </p>
+        </li>
+        <li>
+          <p
+            class="quotes"
+          >
+            "
+            The auxiliary power's out and they spilled my cocktail.
+            "
+          </p>
+        </li>
+        <li>
+          <p
+            class="quotes"
+          >
+            "
+            They're not very heavy, but you don't hear me not complaining.
+            "
+          </p>
+        </li>
+        <li>
+          <p
+            class="quotes"
+          >
+            "
+            Don't talk like that; tragic romances always have a happy ending.
+            "
+          </p>
+        </li>
+        <li>
+          <p
+            class="quotes"
+          >
+            "
+            Yes, I got the most! I win X-Mas!
+            "
+          </p>
+        </li>
+        <li>
+          <p
+            class="quotes"
+          >
+            "
+            Computer dating: it's just like pimping except you rarely have to use the
+term 'upside your head'.
+            "
+          </p>
+        </li>
+        <li>
+          <p
+            class="quotes"
+          >
+            "
+            You, sir, have defaced a natural treasure! I insist you restore my buttocks to
+their former glory.
+            "
+          </p>
+        </li>
+        <li>
+          <p
+            class="quotes"
+          >
+            "
+            Now, my usual fee is $500. But seeing as how its you, I'll need it all in
+advance.
+            "
+          </p>
+        </li>
+        <li>
+          <p
+            class="quotes"
+          >
+            "
+            You're a thousand years old?! Your bio says you're 27!
+            "
+          </p>
+        </li>
+        <li>
+          <p
+            class="quotes"
+          >
+            "
+            It's always so sad when a friend goes crazy and you have a have a big clambake
+and cook him! Yee-ha!
+            "
+          </p>
+        </li>
+        <li>
+          <p
+            class="quotes"
+          >
+            "
+            Life is hilariously cruel.
+            "
+          </p>
+        </li>
+        <li>
+          <p
+            class="quotes"
+          >
+            "
+            Robot porno theatre! I was in that... general... vicinity.
+            "
+          </p>
+        </li>
+        <li>
+          <p
+            class="quotes"
+          >
+            "
+            Yes! I'm going to be rich! You are too, but it's hard to get excited about
+that.
+            "
+          </p>
+        </li>
+        <li>
+          <p
+            class="quotes"
+          >
+            "
+            It's one thing to win a fixed fight; there's dignity in that. But to lose!
+            "
+          </p>
+        </li>
+        <li>
+          <p
+            class="quotes"
+          >
+            "
+            This is the best nanosecond of my life! No this one is! No this one!
+            "
+          </p>
+        </li>
+        <li>
+          <p
+            class="quotes"
+          >
+            "
+            I can't afford to keep running people over. I'm not famous enough to get away
+with it.
+            "
+          </p>
+        </li>
+        <li>
+          <p
+            class="quotes"
+          >
+            "
+            If they put me on a stamp... tell them to use the young Bender.
+            "
+          </p>
+        </li>
+        <li>
+          <p
+            class="quotes"
+          >
+            "
+            Now we're slaving!
+            "
+          </p>
+        </li>
+        <li>
+          <p
+            class="quotes"
+          >
+            "
+            Robots don't have any emotions and sometimes that makes me very sad.
+            "
+          </p>
+        </li>
+        <li>
+          <p
+            class="quotes"
+          >
+            "
+            There we were in the park when suddenly some old lady says I stole her purse.
+I chucked the professor at her but she kept coming. So I had to hit her with
+this purse I found.
+            "
+          </p>
+        </li>
+        <li>
+          <p
+            class="quotes"
+          >
+            "
+            Hmm, words I never say... Oh, I know: "Thanks"!
+            "
+          </p>
+        </li>
+        <li>
+          <p
+            class="quotes"
+          >
+            "
+            Oh crap! It's a miracle!
+            "
+          </p>
+        </li>
+        <li>
+          <p
+            class="quotes"
+          >
+            "
+            I personalized each of your meals. For example, Amy: you're cute, so I baked
+you a pony.
+            "
+          </p>
+        </li>
+        <li>
+          <p
+            class="quotes"
+          >
+            "
+            That probulator really knows how to please a man.
+            "
+          </p>
+        </li>
+        <li>
+          <p
+            class="quotes"
+          >
+            "
+            You know, they say you can judge a man by the company he keeps; so here's
+the professor's oldest friend: a grotesque, stinking lobster!
+            "
+          </p>
+        </li>
+        <li>
+          <p
+            class="quotes"
+          >
+            "
+            Blackmail's such an ugly word. I prefer extortion; the "x" makes it sound
+cool.
+            "
+          </p>
+        </li>
+        <li>
+          <p
+            class="quotes"
+          >
+            "
+            Now you know why I used the qualifier 'practically'.
+            "
+          </p>
+        </li>
+        <li>
+          <p
+            class="quotes"
+          >
+            "
+            Arrr! The laws of science be a harsh mistress.
+            "
+          </p>
+        </li>
+        <li>
+          <p
+            class="quotes"
+          >
+            "
+            She is well-traveled, and I don't mean she travels a lot.
+            "
+          </p>
+        </li>
+        <li>
+          <p
+            class="quotes"
+          >
+            "
+            If you want children beaten, you've got to do it yourself.
+            "
+          </p>
+        </li>
+        <li>
+          <p
+            class="quotes"
+          >
+            "
+            Great is OK, but amazing would be GREAT!
+            "
+          </p>
+        </li>
+        <li>
+          <p
+            class="quotes"
+          >
+            "
+            The cruelty of the old pharoah is a thing of the past! Let a whole new wave of
+cruelty wash over this lazy land!
+            "
+          </p>
+        </li>
+        <li>
+          <p
+            class="quotes"
+          >
+            "
+            Oh my god. I'm so excited I wish I could wet my pants!
+            "
+          </p>
+        </li>
+        <li>
+          <p
+            class="quotes"
+          >
+            "
+            ...Martini-drinking contest with the auto-pilot. I would have won, except we
+ran out of olives.
+            "
+          </p>
+        </li>
+        <li>
+          <p
+            class="quotes"
+          >
+            "
+            Problem solved. You two fight to the death and I'll cook the loser.
+            "
+          </p>
+        </li>
+      </ul>
+    </main>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
