@@ -3,6 +3,7 @@ import { render, screen } from '@testing-library/react';
 import { MemoryRouter } from 'react-router-dom';
 import { rest } from 'msw';
 import { setupServer } from 'msw/node';
+import QuoteContainer from './QuoteContainer.jsx';
 import listData from '../fixtures/list.json';
 
 const server = setupServer(
